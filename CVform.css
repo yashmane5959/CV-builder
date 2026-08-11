@@ -1,0 +1,78 @@
+.home-container {
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  height: auto;
+  padding-left: 20px;
+}
+.home-header {
+  margin-bottom: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+.cv-title {
+  font-size: 50px;
+  font-weight: bold;
+  color: #333333;
+}
+.home-card-1 {
+  text-align: left;
+  padding: 20px;
+  background-color: #333333;
+  color: #ffffff;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.cv-steps-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: "american typewriter", monospace;
+}
+.get-started-btn {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #023975;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 20px;
+}
+.arrow {
+  font-size: 18px;
+  margin-left: 5px;
+  color: #d5c4c4;
+}
+.key-featuresheading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: "american typewriter", monospace;
+}
+.key-feature {
+  font-size: 18px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+.home-Features {
+  margin-top: 20px;
+  text-align: left;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.home-footer {
+  background-color: #65afdd;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 20px;
+  padding: 0px;
+  height: auto;
+}
+.img-follow {
+  max-width: 50%;
+  height: auto;
+}
