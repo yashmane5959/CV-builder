@@ -12,9 +12,13 @@
   font-family: "Times New Roman", Times, serif;
   font-size: 30px;
 }
+.line {
+  font-size: 24px;
+}
 .cv-title {
   font-size: 50px;
   font-weight: bold;
+  font-family: "monoton";
   color: #333333;
 }
 .home-card-1 {
@@ -75,4 +79,37 @@
 .img-follow {
   max-width: 50%;
   height: auto;
+}
+.cv_rules {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #b11212;
+  text-align: left;
+}
+.cv-info {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #000000;
+  text-align: center;
+}
+.form-body {
+  background-color: #5732d2;
+}
+.cv_title {
+  font-weight: bold;
+  color: #ebebee;
+  text-align: center;
+}
+.form-container {
+  background-color: #fff;
+  margin: 5%;
+  border-radius: 10px;
+  color: #000000;
+}
+.button {
+  width: auto;
+  text-align: right;
+}
+label {
+  font-weight: bold;
 }
